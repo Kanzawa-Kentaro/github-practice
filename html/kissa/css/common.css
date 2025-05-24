@@ -142,10 +142,6 @@ img {
     display: none;
   }
 
-  .header-site-menu.is-show {
-    display: block;
-  }
-
   .toggle-menu-button {
     display: block;
     width: 44px;
@@ -158,5 +154,26 @@ img {
     border: none;
     border-radius: 0;
     outline: none;
+    cursor: pointer;
+  }
+
+  .header-site-menu.is-show {
+    display: block;
+  }
+
+  .main {
+    padding-top: 50px;
+  }
+
+  .footer-logo {
+    margin-top: 60px;
+  }
+
+  .footer-tel {
+    font-size: 20px;
+  }
+
+  .copyright {
+    margin-top: 50px;
   }
 }
