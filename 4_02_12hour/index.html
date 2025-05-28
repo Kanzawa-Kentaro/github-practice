@@ -18,11 +18,7 @@
 <main>
 <div class="container">
 <section>
-  <form action="#" id="form">
-    <input type="text" name="word">
-    <input type="submit" value="検知">
-  </form>
-  <p id="output"></p>
+  <p>最終アクセス日時:<span id="time"></span></p>
 </section>
 </div><!-- /.container -->
 </main>
@@ -34,11 +30,22 @@
 <script>
 'use strict';
 
-document.getElementById('form').onsubmit = function(event) {
-  event.preventDefault();
-  const search = document.getElementById('form').word.value;
-  document.getElementById('output').textContent = `[${search}]の検索中...`;
-};
+const now = new Date();
+const year = now.getFullYear();
+const month = now.getMonth();
+const date = now.getDate();
+const hour = now.getHours();
+const min = now.getMinutes();
+let ampm = '';
+if(hour < 12) {
+  ampm = 'a.m.'
+} else {
+  ampm = 'p.m.'
+}
+
+const output = `${year}/${month + 1}/${date} ${hour % 12}:${min}${ampm}`;
+document.getElementById('time').textContent = output;
+
 </script>
 </body>
 </html>
