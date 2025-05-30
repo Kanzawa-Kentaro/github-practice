@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CalcBigDecimal",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CalcBigDecimal",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CalcFloat",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CalcFloat",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "Increment",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.Increment",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "ConcatBuilder",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.ConcatBuilder",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "ConcatString",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.ConcatString",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
       "name": "Practice3",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap01.Practice3",
