@@ -6,6 +6,125 @@
   "configurations": [
     {
       "type": "java",
+      "name": "IfOmit3",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.IfOmit3",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "IfOmit",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.IfOmit",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "IfNest",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.IfNest",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "IfElse",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.IfElse",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "IfBasic2",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.IfBasic2",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "IfBasic",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.IfBasic",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "Shortcut",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.Shortcut",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "Condition",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.Condition",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareIntenger",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareIntenger",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareArraysMethod",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareArraysMethod",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareArrayDeep",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareArrayDeep",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareArray",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareArray",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareDouble",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareDouble",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareBigDecimal",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareBigDecimal",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareFloat",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareFloat",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareString",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareString",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "CompareStringBuilder",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.CompareStringBuilder",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
       "name": "CalcBigDecimal",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap01.CalcBigDecimal",
