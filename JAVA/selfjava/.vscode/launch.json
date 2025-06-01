@@ -6,6 +6,153 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StrTemplate",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrTemplate",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrFormat",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrFormat",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrSplit",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrSplit",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrSubstring2",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrSubstring2",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrSubstring",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrSubstring",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrContains",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrContains",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrIndex",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrIndex",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrStrip",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrStrip",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrBlank",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrBlank",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrEmpty",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrEmpty",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrEquals",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrEquals",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrCompare",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrCompare",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrCodePoint",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrCodePoint",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "StrLength",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.StrLength",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "ConvertString",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.ConvertString",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "ConvertNumber",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.ConvertNumber",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "AutoBoxing",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.AutoBoxing",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "BreakNest2",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.BreakNest2",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "BreakNest",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.BreakNest",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "Continue",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.Continue",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
+      "name": "Break",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.Break",
+      "projectName": "selfjava_c46606e3"
+    },
+    {
+      "type": "java",
       "name": "IfOmit3",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap01.IfOmit3",

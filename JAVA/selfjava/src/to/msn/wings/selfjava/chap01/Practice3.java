@@ -3,7 +3,7 @@ package to.msn.wings.selfjava.chap01;
 public class Practice3 {
     public static void main(String[] args) {
 
-    var value = 10d;
+    var  = 10d;
 
     System.out.println("""
     ようこそ
